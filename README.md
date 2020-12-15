@@ -1,12 +1,18 @@
-# Livro de receitas :man_cook:
+# Livro de receitas funcionais :man_cook:
 
-Olá! Bem-vindo ao livro de receitas :book:
+Olá! Bem-vindo ao livro de receitas funcionais :book:
 
 
 
 - Mistura laxante;
-- Sal de ervas
-- Strogonoff de Frango
+
+- Sal de ervas;
+
+- Suco calmante;
+
+- Farinha integral;
+
+  
 
 
 
